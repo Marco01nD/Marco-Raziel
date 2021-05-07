@@ -19,8 +19,8 @@ const marcoR = {
   
 <h2>You can find me 🌎:</h2>
 
-![Linkedin: marcorazielbartolo](https://img.shields.io/badge/-marcorazielbartolo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/marco-raziel-bartolo/)
-![Facebook: marcobartmed](https://img.shields.io/badge/-MarcoBartMed-white?style=flat&logo=facebook&link=www.facebook.com/marco.bartmed//)
+[![Linkedin: marcorazielbartolo](https://img.shields.io/badge/-marcorazielbartolo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/marco-raziel-bartolo/)](https://www.linkedin.com/in/marco-raziel-bartolo/)
+[![Facebook: marcobartmed](https://img.shields.io/badge/-MarcoBartMed-white?style=flat&logo=facebook&link=www.facebook.com/marco.bartmed/)](https://www.facebook.com/marco.bartmed/)
   
 
 
