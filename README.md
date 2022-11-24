@@ -5,9 +5,14 @@
 
 ```js
 const marcoR = {
-  pronouns: "he" | "him",
-  code: [HTML,CSS,JavaScript, Typescript, SQL],
-  tools: [Bootstrap, Angular, Node]
+  "pronouns": "he | him",
+  "code": [
+        ["HTML","CSS3","JavaScript","JQuery","Bootstrap"],
+        ["Angular","NodeJS"],
+        ["Java","Spring Boot"],
+        ["MySQL","Oracle SQL"]
+        ],
+  "tools": ["Git","Jira","SoapUI","Postman"]
   }
   ```
   <h2>About me 👨‍💻:</h2>
